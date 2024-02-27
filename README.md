@@ -1,3 +1,5 @@
+#clone this assignment git clone https://github.com/Kandulanaveennaidu/Zygal-assigement
+
 #for server first cd server then src run by node index.js / npx nodemon
 
 #server is running on port 5000
